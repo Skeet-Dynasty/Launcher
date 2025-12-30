@@ -1,0 +1,13 @@
+{
+  "Desktop": {
+    "version" : "1.0",
+    "download_win" : "https://dl.skeetdynasty.ru/uploads/SkeetDynastyLauncher.exe",
+    "download_linux" : "https://dl.skeetdynasty.ru/uploads/SkeetDynastyLauncher.AppImage",
+    "changelog" : "Начальный релиз"
+  },
+  "Android" : {
+    "version" : "1.0",
+    "download" : "https://dl.skeetdynasty.ru/uploads/SkeetDynastyLauncher.apk",
+    "changelog" : "Начальный релиз"
+  }
+}

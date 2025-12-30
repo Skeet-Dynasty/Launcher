@@ -1,0 +1,58 @@
+{
+  "DmitryDiary": {
+    "version": "1.2",
+    "name": "Dmitry Diary",
+    "description": "Привет из 2022. Это максимально кривая, убогая и короткая игра, но в то же время - самая ламповая и ностальгичная для нас. 6 концовок, куча смехуёчков, и целое море веселья!",
+    "changelog": "Костыли для старых багов",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/DmitryDiary/dd_1.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/DmitryDiary/dd_2.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/DmitryDiary/dd_3.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/DmitryDiary/dd_4.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/DmitryDiary/dd_5.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/DmitryDiary/dd_6.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/DmitryDiary/dd_7.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/DmitryDiary/dd_8.png"
+    ],
+    "download_desktop": "https://dl.skeetdynasty.ru/uploads/DD.zip",
+    "download_android": "https://dl.skeetdynasty.ru/uploads/DD.apk",
+    "exec_win": "DmitryDiary.exe",
+    "exec_linux": "DmitryDiary.sh",
+    "exec_android": "ru.skeetdynasty.dd"
+  },
+  "SkitetskyRemaster": {
+    "version": "1.0",
+    "name": "Skitetsky REMASTER",
+    "description": "Главная супер-мега-треш-новелла про Скитецкого и его врагов. Объяснять долго, пиздуй скачивать эту хуйню, блеать!",
+    "changelog": "Релизная версия",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/SkitetskyRemaster/sr_1.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/SkitetskyRemaster/sr_2.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/SkitetskyRemaster/sr_3.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/SkitetskyRemaster/sr_4.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/SkitetskyRemaster/sr_5.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/SkitetskyRemaster/sr_6.png"
+    ],
+    "download_desktop": "https://dl.skeetdynasty.ru/uploads/SR.zip",
+    "download_android": "https://dl.skeetdynasty.ru/uploads/SR.apk",
+    "exec_win": "SkeetRemaster.exe",
+    "exec_linux": "SkeetRemaster.sh",
+    "exec_android": "ru.skeetdynasty.sr"
+  },
+  "OverlordDiary": {
+    "version": "1.0",
+    "name": "Overlord Diary",
+    "description": "Полный пиздец? Да! Ебейше увлекательный и ржачный рассказ про Данилу Кондрашова Оверлорда. Играй и смотри не обосрись от ржекичей, епт.",
+    "changelog": "Пока нихуя нового нет",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/OverlordDiary/od_1.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/OverlordDiary/od_2.png",
+      "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/OverlordDiary/od_3.png"
+    ],
+    "download_desktop": "https://dl.skeetdynasty.ru/OD.zip",
+    "download_android": "https://dl.skeetdynasty.ru/OD.apk",
+    "exec_win": "OverlordDiary.exe",
+    "exec_linux": "OverlordDiary.sh",
+    "exec_android": "ru.skeetdynasty.od"
+  }
+}
