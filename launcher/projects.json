@@ -14,14 +14,14 @@
       "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/DmitryDiary/dd_7.png",
       "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/DmitryDiary/dd_8.png"
     ],
-    "download_desktop": "https://dl.skeetdynasty.ru/uploads/DD.zip",
-    "download_android": "https://dl.skeetdynasty.ru/uploads/DD.apk",
+    "download_desktop": "https://dl.skeetdynasty.ru/uploads/DmitryDiary.zip",
+    "download_android": "https://dl.skeetdynasty.ru/uploads/DmitryDiary.apk",
     "exec_win": "DmitryDiary.exe",
     "exec_linux": "DmitryDiary.sh",
     "exec_android": "ru.skeetdynasty.dd"
   },
   "SkitetskyRemaster": {
-    "version": "1.0",
+    "version": "2.2",
     "name": "Skitetsky REMASTER",
     "description": "Главная супер-мега-треш-новелла про Скитецкого и его врагов. Объяснять долго, пиздуй скачивать эту хуйню, блеать!",
     "changelog": "Релизная версия",
@@ -33,8 +33,8 @@
       "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/SkitetskyRemaster/sr_5.png",
       "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/SkitetskyRemaster/sr_6.png"
     ],
-    "download_desktop": "https://dl.skeetdynasty.ru/uploads/SR.zip",
-    "download_android": "https://dl.skeetdynasty.ru/uploads/SR.apk",
+    "download_desktop": "https://dl.skeetdynasty.ru/uploads/SkitetskyRemaster.zip",
+    "download_android": "https://dl.skeetdynasty.ru/uploads/SkitetskyRemaster.apk",
     "exec_win": "SkeetRemaster.exe",
     "exec_linux": "SkeetRemaster.sh",
     "exec_android": "ru.skeetdynasty.sr"
@@ -49,8 +49,8 @@
       "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/OverlordDiary/od_2.png",
       "https://raw.githubusercontent.com/Skeet-Dynasty/Launcher/refs/heads/main/assets/screenshots/OverlordDiary/od_3.png"
     ],
-    "download_desktop": "https://dl.skeetdynasty.ru/OD.zip",
-    "download_android": "https://dl.skeetdynasty.ru/OD.apk",
+    "download_desktop": "https://dl.skeetdynasty.ru/uploads/OverlordDiary.zip",
+    "download_android": "https://dl.skeetdynasty.ru/uploads/OverlordDiary.apk",
     "exec_win": "OverlordDiary.exe",
     "exec_linux": "OverlordDiary.sh",
     "exec_android": "ru.skeetdynasty.od"
